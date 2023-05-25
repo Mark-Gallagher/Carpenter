@@ -1,4 +1,4 @@
-#Carpentry tools &amp; items class
+#Carpentry Tools Collection Class
 
 # 💫 About Me:
 I'm a Software Developer who's eager to learn new technologies and enhance my programming skills.
